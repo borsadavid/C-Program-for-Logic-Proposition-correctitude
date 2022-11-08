@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667747342 source:c:\users\qwert\documents\codeblocks\problema logica\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+
