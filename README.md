@@ -1,4 +1,4 @@
-# C-Program-for-Logic-Proposition-correctitude
+# C-Program-for-Logic-Proposition-correctitude by Borsa David
 I made a C++ Program wich tells if a logic proposition is a well formed propositional formula.
 The program can also make a very simple truthtable only between two variables and one connective.
 
