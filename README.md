@@ -1,4 +1,4 @@
-# C-Program-for-Logic-Proposition-correctitude by Borsa David
+# C-Program-for-Logic-Proposition-correctitude
 I made a C++ Program wich tells if a logic proposition is a well formed propositional formula.
 The program can also make a very simple truthtable only between two variables and one connective.
 
@@ -8,3 +8,8 @@ Note: Propositions must be written with a space between every character, all in 
 Program also has explanations written along code.
 
 example: ( ( P IMPLIES Q ) AND NOT R ) OR P 
+
+
+
+
+made by Borsa David UVT student for "Logic for Computer Science"
